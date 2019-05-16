@@ -1,4 +1,7 @@
 # Casino
+
+Casino.java -> Main class
+
 Attempt for make a winning strategy in roulette in casino
 
 Strategy bet only on red,
